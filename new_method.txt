@@ -1,0 +1,11 @@
+def my_first_method
+	puts "this is my first method!"
+end
+
+def addition_method
+	addedNum = 2 + 2
+	puts "2 + 2 equals #{addedNum}"
+end
+
+my_first_method
+addition_method
